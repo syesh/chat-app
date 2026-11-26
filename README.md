@@ -13,7 +13,7 @@ Chatty is a simple and lightweight chat application where users can enter their 
 
 ## Live Demo
 
-[Visit Chatty]([YOUR-GITHUB-PAGES-LINK](https://syesh.github.io/chat-app/))
+[Visit Chatty]((https://syesh.github.io/chat-app/))
 
 ## Hosting
 
